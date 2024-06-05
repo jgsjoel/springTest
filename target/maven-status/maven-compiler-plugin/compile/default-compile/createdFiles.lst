@@ -1,0 +1,5 @@
+com\mcom\mcomapi\Application.class
+com\mcom\mcomapi\entities\User.class
+com\mcom\mcomapi\controllers\UserController.class
+com\mcom\mcomapi\controllers\TestController.class
+com\mcom\mcomapi\repositories\UserRepository.class
