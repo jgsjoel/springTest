@@ -10,7 +10,7 @@ public class TestController {
 
     @GetMapping
     public String test(){
-        return "THis is a test controller";
+        return "updated code";
     }
 
 }
